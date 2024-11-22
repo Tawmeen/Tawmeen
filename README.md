@@ -1,4 +1,4 @@
-[![MasterHead](https://st4.depositphotos.com/16775192/28905/v/450/depositphotos_289057412-stock-illustration-programming-or-software-development-web.jpg)](https://rishavchanda.io)
+[![MasterHead](https://wallpapers.com/images/hd/technology-linkedin-background-dce01jsbpnn0z2ej.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Tawmeen Hasan Hasib</h1>
 <h3 align="center">"Mastering Algorithms, Conquering Challenges"</h3>
